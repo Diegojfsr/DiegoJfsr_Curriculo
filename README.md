@@ -14,17 +14,40 @@ This web programming course from Harvard University picks up where CS50x leaves 
 
 <h2 dir="auto"> ⭐️ Course Contents ⭐️ </h2>
 <ul dir="auto">
-<li>⌨️ Introduction</li>
-<li>⌨️ Lecture 0: HTML, CSS</li>
-<li>⌨️ Lecture 1: Git</li>
-<li>⌨️ Lecture 2: Python</li>
-<li>⌨️ Lecture 3: Django</li>
-<li>⌨️ Lecture 4: SQL, Models, and Migrations</li>
-<li>⌨️ Lecture 5: JavaScript</li>
-<li>⌨️ Lecture 6: User Interfaces</li>
-<li>⌨️ Lecture 7: Testing, CI/CD</li>
-<li>⌨️ Lecture 8: Scalability and Security</li>
+⌨️ Introduction<br>
+⌨️ Lecture 0: HTML, CSS<br>
+⌨️ Lecture 1: Git<br>
+⌨️ Lecture 2: Python<br>
+⌨️ Lecture 3: Django<br>
+⌨️ Lecture 4: SQL, Models, and Migrations<br>
+⌨️ Lecture 5: JavaScript<br>
+⌨️ Lecture 6: User Interfaces<br>
+⌨️ Lecture 7: Testing, CI/CD<br>
+⌨️ Lecture 8: Scalability and Security<br>
 </ul>
+
+<h2 dir="auto"> ⭐️ More⭐️ </h2>
+<ul dir="auto">
+💻<a href="https://cs50.harvard.edu/web/2020/"> Slides, source code, and more </a><br>
+🖥<a href="https://www.youtube.com/watch?v=8mAITcNt710&t=0s"> Watch the original CS50x course </a><br>
+ ✏️ Brian Yu teaches this course.<br>
+</ul>
+
+<h2 dir="auto"> 📝 My annotations </h2>
+<ul dir="auto">
+  <li><a href="https://"> annotations </a></li>
+  <li><a href="https://"> annotations </a></li>
+  <li><a href="https://"> annotations </a></li>
+  
+</ul>
+
+<h2 dir="auto"> 🤝 Contributing </h2>
+<p dir="auto">
+This repository was created for study purposes, so please contribute to it. If I helped you in any way, I'll be happy to
+  to know. And if you know someone who identifies with the content, be sure to share.
+</p>
+
+
 
 
 
