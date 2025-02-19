@@ -1,1 +1,1 @@
-# DiegoJfsr_Curriculo
+# DiegoJfsr_Currriculo
